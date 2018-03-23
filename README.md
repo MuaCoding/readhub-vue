@@ -2,6 +2,17 @@
 
 > A Vue.js project
 
+<p align="center">
+Awesome douban DEMO created with Vue2.x  + Vue-router + axios
+</p>
+
+<p align="center">
+    <img src="./static/demo.jpg" >
+    <br><br>
+    <br>
+	 <strong><a href="https://xiaomingli.github.io/hexo/views/other/readhub/">Live Demo</a></strong>
+</p>
+
 ## Build Setup
 
 ``` bash
